@@ -13,7 +13,7 @@ ${URL} =            https://automationplayground.com/front-office/#
 
 Should be able to access the "Team" page
     [Documentation]         Verify "Team" page is accessible
-    [Tags]                  Smoke
+    [Tags]                  Smoke     Regression
     AppFrontOffice.Navigate to the home page      ${URL}
     AppFrontOffice.Click on "Team" Link
 
