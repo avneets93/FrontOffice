@@ -23,6 +23,3 @@ Should be able to access the "Team" page
     AppFrontOffice.Navigate to the home page      ${URL}
     AppFrontOffice.Click on "Team" Link
     AppFrontOffice."Team" page should match requirements
-
-Test Feature 1 changes
-    Log     Test feature 1
