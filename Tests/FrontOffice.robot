@@ -24,5 +24,5 @@ Should be able to access the "Team" page
     AppFrontOffice.Click on "Team" Link
     AppFrontOffice."Team" page should match requirements
 
-Test Feature 1 changes
-    Log     Test feature 1
+Test Feature 2 changes
+    Log     Test feature 2
